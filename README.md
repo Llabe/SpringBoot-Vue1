@@ -5,7 +5,7 @@
 ![Shiro](https://img.shields.io/badge/Shiro-1.3.2-blue)
 ![Vue](https://img.shields.io/badge/Vue-2.x-4fc08d)
 
-> 更多毕设项目可跳转至项目导航栏检索：[毕设项目](http://sysadmin.3vfree.vip)，需要联系博主v：xq-lucky311，q：1047944234
+> 更多毕设项目可跳转至项目导航栏检索：[点击进入毕设项目合集](http://sysadmin.3vfree.vip)，需要联系博主v：xq-lucky311，q：1047944234
 
 # 项目简介  
 基于 SpringBoot 2.7 + Vue 2.x 的全栈租房平台，采用 MySQL 实现数据存储，包含管理员、房东、用户三级权限体系，提供房源审核、在线租赁、订单支付等核心功能，专为高校学生租房场景设计的轻量化解决方案。
